@@ -27,13 +27,8 @@
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>animations</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentName>PictureGallerycard</componentName>
-        </componentInstances>
+
+
         <mode>Replace</mode>
         <name>header</name>
         <type>Region</type>
