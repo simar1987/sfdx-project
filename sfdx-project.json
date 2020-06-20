@@ -1,0 +1,35 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "AncestorTest",
+            "ancestorId": "04t2w00000534KOAAY",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "AncestorNewTest",
+            "ancestorId": "04t2w00000538sNAAQ",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.4.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "YashSandy",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "AncestorTest": "0Ho2w000000fxdJCAQ",
+        "AncestorTest@0.1.0-1": "04t2w00000534KEAAY",
+        "AncestorTest@0.2.0-1": "04t2w00000534KJAAY",
+        "AncestorTest@0.3.0-1": "04t2w00000534KOAAY",
+        "AncestorTest@0.3.1-1": "04t2w00000534KTAAY",
+        "AncestorNewTest": "0Ho2w000000fxdOCAQ",
+        "AncestorNewTest@0.1.0-1": "04t2w00000538sNAAQ",
+        "AncestorNewTest@0.2.0-1": "04t2w000005390iAAA",
+        "AncestorNewTest@0.3.0-1": "04t2w000005390nAAA",
+        "AncestorNewTest@0.4.0-1": "04t2w000005390sAAA"
+    }
+}
