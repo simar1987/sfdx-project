@@ -27,6 +27,8 @@
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
         </componentInstances>
+
+
         <mode>Replace</mode>
         <name>header</name>
         <type>Region</type>
